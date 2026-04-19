@@ -17,4 +17,5 @@ As a key contributor to this project, my work focused on the **Data Foundation a
 * Python (Pandas, NumPy, Re)
 * Visualization (Seaborn, Matplotlib)
 * Jupyter Notebook
-**Next Project:** I am currently developing a research proposal for Interpretable Arabic Sentiment Analysis. You can find the roadmap [git@github.com/ShahadAlhejaili/Arabic_Sentiment-XAI-Proposal.git]
+---
+🚀 **Next Project:** I am currently developing a research proposal for **Interpretable Arabic Sentiment Analysis**. You can find the roadmap [HERE](https://github.com/ShahadAlhejaili/Arabic-Sentiment-XAI-Proposal).
